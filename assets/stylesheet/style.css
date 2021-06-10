@@ -1,0 +1,121 @@
+/* 
+
+font: logo pacifico.... css----- font-family: 'Pacifico', cursive;
+font: Open Sans,,,,,,,, css----- font-family: 'Open Sans', sans-serif;
+
+html----- <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Pacifico&display=swap" rel="stylesheet">
+
+nav font size 13px,
+
+
+*/
+
+.container-fluid {
+    max-width: 1170px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.mw-970 {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 28px;
+    color: #0eb493;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-size: 20px;
+    color: #062033;
+}
+
+h6 {
+    font-size: 13px;
+    color: #4d606e;
+}
+
+h4 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+span.title-border:before {
+    left: 100%;
+}
+
+span.title-border:after {
+    right: 100%;
+}
+
+span.title-border:before {
+    content: "";
+    background: #dce1e5;
+    width: 90px;
+    height: 1px;
+    top: 9px;
+    position: absolute;
+}
+
+span.title-border:after {
+    content: "";
+    background: #dce1e5;
+    width: 90px;
+    height: 1px;
+    top: 9px;
+    position: absolute;
+}
+
+span.title-border {
+    padding: 0 8px;
+    font-size: 18px;
+    line-height: 18px;
+    position: relative;
+    display: inline-block;
+    color: #dce1e5;
+    margin-bottom: 65px;
+}
+
+
+/* h2::after {
+    display: block;
+    height: 3px;
+    background-color: #dce1e5;
+    content: "";
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 64px;
+} */
+
+.navbar-brand {
+    font-family: 'Pacifico', cursive;
+}
+
+.nav-item :hover {
+    border-top: 2px solid #fff;
+}
+
+#features {
+    background-color: #f4f7f9;
+    min-height: 480px;
+}
+
+.uderline-h2 {
+    color: #dce1e5;
+    margin-bottom: 65px;
+    text-align: center;
+}
+
+#works h5 {
+    color: #384d5c;
+}
+
+#team {
+    min-height: 900px;
+}
+
+#some-fun {}
