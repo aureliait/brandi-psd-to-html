@@ -43,7 +43,7 @@ h4 {
     font-weight: bold;
 }
 
-p {
+h3 {
     font-size: 18px;
 }
 
@@ -142,4 +142,17 @@ span.title-border {
     padding: 25px;
     border: 2px solid rgb(155, 146, 146);
     border-radius: 50px;
+}
+
+#discuss {
+    min-height: 630px;
+}
+
+.fs-22px {
+    font-size: 22px;
+}
+
+.fs-24px {
+    font-size: 24px;
+    font-weight: bold;
 }
