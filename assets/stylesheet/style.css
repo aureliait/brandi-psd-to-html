@@ -156,3 +156,68 @@ span.title-border {
     font-size: 24px;
     font-weight: bold;
 }
+
+.brandi-massage {
+    text-decoration: none;
+    color: black;
+    text-align: end;
+}
+
+.color-brandi {
+    color: #0eb493;
+    font-size: 20px;
+}
+
+.fa-behance,
+.fa-twitter,
+.fa-basketball-ball,
+.fa-atlassian,
+.fa-google-plus-g {
+    display: block;
+    color: #62717c;
+    font-size: 25px;
+    text-align: right;
+    padding-top: 25px;
+}
+
+#contact {
+    background-color: #0eb493;
+    min-height: 404px;
+    border-top: 5px solid black;
+    padding-top: 95px;
+}
+
+.brandi-footer {
+    color: #ffffff;
+    font-family: "Pacifico", cursive;
+    text-transform: unset;
+    font-weight: normal;
+}
+
+.text-whitef {
+    font-weight: normal;
+    color: #e0dcdc;
+    padding-top: 20px;
+}
+
+.fw-normal {
+    font-weight: normal;
+    color: #ffffff;
+    padding-bottom: 35px;
+}
+
+.fa-arrow-right {
+    color: #cdd5dd;
+    padding: 5px 15px 5px 200px;
+    text-align: end;
+    border: 1px solid #ffffff;
+}
+
+.text-whitef-ex {
+    font-weight: normal;
+    color: #e0dcdc;
+}
+
+.color-mor {
+    color: #3b3b3b;
+}
