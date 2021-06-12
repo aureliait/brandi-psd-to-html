@@ -128,12 +128,13 @@ span.title-border {
 }
 
 #some-fun {
-    background-image: linear-gradient( rgba(44, 21, 21, 0.7), rgba(14, 24, 39, 0.7)), url(../image/some-one-background.png);
+    min-height: 596px;
+    background-image: linear-gradient( rgba(45, 45, 75, 0.7), rgba(26, 39, 58, 0.7)), url(../image/some-one-background.png);
 }
 
 .f-60-bold {
     font-size: 60px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .far-outline {
