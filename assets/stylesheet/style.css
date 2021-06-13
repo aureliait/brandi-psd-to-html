@@ -95,12 +95,20 @@ span.title-border {
 /* header */
 
 .navbar {
-    background-color: transparent;
-    box-shadow: 0 10px 33px rgba(0, 0, 0, .1) !important;
+    background-image: linear-gradient(rgb(29, 27, 27, 0.5), rgb(43, 43, 39, 0.5));
+    box-shadow: 0 10px 33px rgba(12, 12, 12, 0.3) !important;
 }
 
 .navbar-brand {
     font-family: "Pacifico", cursive;
+    font-size: 28px;
+}
+
+.navbar-text {
+    color: #b3afaf;
+    font-size: 13px;
+    text-align: left;
+    font-family: "Open Sans", sans-serif;
 }
 
 .nav-item :hover {
@@ -141,7 +149,7 @@ span.title-border {
 
 #works img:hover {
     filter: alpha(opacity=80);
-    opacity: .8;
+    opacity: 0.8;
     cursor: pointer;
 }
 
