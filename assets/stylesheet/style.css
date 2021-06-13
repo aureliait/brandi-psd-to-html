@@ -108,6 +108,17 @@ span.title-border {
 }
 
 
+/* slider */
+
+.sl-text {
+    color: #b3afaf;
+}
+
+.slider-txt-1 {
+    color: #0eb493;
+}
+
+
 /* features */
 
 #features {
@@ -192,11 +203,7 @@ span.title-border {
     font-size: 20px;
 }
 
-.fa-behance,
-.fa-twitter,
-.fa-basketball-ball,
-.fa-atlassian,
-.fa-google-plus-g {
+.dis-fas {
     display: block;
     color: #62717c;
     font-size: 25px;
