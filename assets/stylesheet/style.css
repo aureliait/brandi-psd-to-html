@@ -128,6 +128,12 @@ span.title-border {
     color: #384d5c;
 }
 
+#works img:hover {
+    filter: alpha(opacity=80);
+    opacity: .8;
+    cursor: pointer;
+}
+
 
 /* team */
 
