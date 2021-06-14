@@ -123,6 +123,10 @@ span.title-border {
     color: #b3afaf;
 }
 
+.sl-text:hover {
+    color: #0eb493;
+}
+
 .slider-txt-1 {
     color: #0eb493;
 }
@@ -218,6 +222,10 @@ span.title-border {
     font-size: 25px;
     text-align: right;
     padding-top: 25px;
+}
+
+.dis-fas:hover {
+    color: #0eb493;
 }
 
 
