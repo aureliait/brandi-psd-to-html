@@ -165,6 +165,61 @@ span.title-border {
     min-height: 800px;
 }
 
+.p1 {
+    position: relative;
+}
+
+.card:hover h5 {
+    color: #0eb493;
+}
+
+.project-text {
+    position: absolute;
+    height: 0;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    background: #0eb493d2;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.p1:hover .project-text {
+    opacity: 1;
+    transition: 0.5s;
+    height: 100%;
+}
+
+.mt-22px {
+    margin-top: 22px;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: unset;
+}
+
+.fs-16px {
+    font-size: 16px;
+    line-height: unset;
+}
+
+.team-icon {
+    font-size: 24px;
+    color: #ffffff;
+    background: #109177ce;
+}
+
+.fb-style {
+    padding: 10px 15px;
+}
+
+.twitter-style {
+    padding: 10px;
+}
+
+.plus-style {
+    padding: 10px 8px;
+}
+
 
 /* some-fun */
 
